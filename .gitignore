@@ -1,0 +1,4 @@
+test4.txt
+#for comments
+
+# wild cards like * we can do something like *.txt which makes to ignore all the .txt files
